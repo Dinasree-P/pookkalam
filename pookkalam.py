@@ -11,7 +11,6 @@ H = G|repeat(3,rotate(15))
 I = circle(r=40, fill="WHITE",STROKE="NONE")
 J=rectangle(w=50,h=50,fill="yellow",stroke='black') | repeat(30,rotate(15))
 K=rectangle(w=40,h=40,fill="orange",stroke='black') | repeat(10,rotate(30))
-
 L= rectangle(w=60,h=60,fill="#a10000",stroke="black") | rotate(15) | repeat(10, rotate(10))
 M = rectangle(w=159,h=159,fill="#e64805",stroke="black") | rotate(20) | repeat(10, rotate(10))
 N = rectangle(w=90,h=94,fill="#ffd503",stroke="black") | rotate(30) | repeat(10, rotate(10))
