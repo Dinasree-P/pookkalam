@@ -5,17 +5,11 @@ B = circle(r=145, fill='#36013F', stroke="RED", stroke_width=3)
 C = ellipse(w=280,h=30,fill="WHITE",stroke="NONE")|repeat(30,rotate(20))
 D = C|repeat(4,rotate(15))
 E = ellipse(w=260, h=90, fill="YELLOW", stroke="black")|repeat(9,rotate(angle=20))
-
 F = circle(r=55, fill="#66B032", stroke="none")
-
 G = ellipse(w=100,h=11,fill="#FF8C00",stroke="BROWN")|repeat(20,rotate(25))
-
 H = G|repeat(3,rotate(15))
-
 I = circle(r=40, fill="WHITE",STROKE="NONE")
-
 J=rectangle(w=50,h=50,fill="yellow",stroke='black') | repeat(30,rotate(15))
-
 K=rectangle(w=40,h=40,fill="orange",stroke='black') | repeat(10,rotate(30))
 
 L= rectangle(w=60,h=60,fill="#a10000",stroke="black") | rotate(15) | repeat(10, rotate(10))
