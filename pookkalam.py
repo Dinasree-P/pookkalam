@@ -37,6 +37,7 @@ Q=rectangle(w=130,h=130,fill="#FFC300",stroke='black') | repeat(40,rotate(36))
 R=ellipse(w=70,h=20,x=30,fill="#FF5733",stroke="black")|repeat(24,rotate(15))
 
 S=ellipse(w=70,h=20,x=30,fill="#C70039 ",stroke="black")|repeat(12,rotate(30))
+
 T=ellipse(w=55,h=15,x=15,fill="#900C3F",stroke="black")|repeat(12,rotate(30))
 U= circle(r=30,fill="purple",stroke="none")
 
