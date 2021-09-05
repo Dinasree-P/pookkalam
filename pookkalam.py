@@ -7,7 +7,7 @@ D = C|repeat(4,rotate(15))
 E = ellipse(w=260, h=90, fill="YELLOW", stroke="black")|repeat(9,rotate(angle=20))
 
 X = ellipse(r=1,x=20,fill="#2274A5",stroke="black") | repeat(100,rotate(30))
-s2 = rectangle(w=20,h=20,fill="yel
+s2 = rectangle
 
 F = circle(r=55, fill="#66B032", stroke="none")
 G = ellipse(w=100,h=11,fill="#FF8C00",stroke="BROWN")|repeat(20,rotate(25))
