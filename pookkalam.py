@@ -1,5 +1,6 @@
 from joy import *
 
+
 A = circle(r=150, fill='GREEN')
 B = circle(r=145, fill='#36013F', stroke="RED", stroke_width=3)
 C = ellipse(w=280,h=30,fill="WHITE",stroke="NONE")|repeat(30,rotate(20))
