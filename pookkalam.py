@@ -2,7 +2,7 @@ from joy import *
 
 
 A = circle(r=150, fill='GREEN')
-B = circle(r=145, fill='#36013F', stroke="RED", stroke_width=3)
+B = circle(r=145, fill='#36013F', stroke="RED",  stroke_width=3)
 C = ellipse(w=280,h=30,fill="WHITE",stroke="NONE")|repeat(30,rotate(20))
 D = C|repeat(4,rotate(15))
 E = ellipse(w=260, h=90, fill="YELLOW", stroke="black")|repeat(9,rotate(angle=20))
