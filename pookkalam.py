@@ -26,4 +26,4 @@ V = circle(r=25, fill="blue", stroke="none")
 W = ellipse(w=40, h=9,fill="red",stroke="white")|repeat(6, rotate(30))
 X = circle(r=8 ,fill="#E5E4E2")
 
- show(A,B,C,D,E,X,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X)
+  show(A,B,C,D,E,X,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X)
